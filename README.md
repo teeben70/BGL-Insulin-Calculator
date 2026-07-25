@@ -9,6 +9,6 @@ _____________________________
 ChatGPT prompt: 
 'is my https://teeben70.github.io/BGL-Insulin-Calculator/ site secure?'
 
-response:
+Response:
 https://chatgpt.com/share/6a64f262-6808-83e8-8e92-a4ba85707be2
 _____________________________
