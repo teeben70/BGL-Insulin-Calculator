@@ -1,5 +1,5 @@
 # BGL-Insulin-Calculator
-Calculate insulin units dosage by blood glucose level input
+Calculate insulin units dosage by blood glucose level input.
 
 Created by prompting ChatGPT: 
 https://teeben70.github.io/BGL-Insulin-Calculator/
